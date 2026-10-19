@@ -1,0 +1,6 @@
+{
+  "name": "Roadster Rush",
+  "description": "Fly the new Roadster over a gridlocked sunset freeway with cold-gas thrusters, barrel rolls, and sky-lane dogfights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
