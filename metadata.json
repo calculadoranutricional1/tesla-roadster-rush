@@ -1,6 +1,6 @@
 {
   "name": "Roadster Rush",
-  "description": "Fly the new Roadster over a gridlocked sunset freeway with cold-gas thrusters, barrel rolls, and sky-lane dogfights.",
+  "description": "Vuela con el nuevo Roadster sobre una autopista colapsada al atardecer con propulsores de gas frío, giros de barril y combates aéreos.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
