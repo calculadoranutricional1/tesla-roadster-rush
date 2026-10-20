@@ -25,8 +25,8 @@
       "voice/rocket_0.mp3"
     ],
     "crash": [
-      "voice/crash_0.mp3",
-      "voice/crash_1.mp3"
+      "voice/crash_road.mp3",
+      "voice/crash_insurance.mp3"
     ],
     "combo": [
       "voice/combo_0.mp3",
@@ -37,6 +37,22 @@
     ],
     "sky": [
       "voice/sky_0.mp3"
+    ],
+    "crashSign": [
+      "voice/crash_sign.mp3",
+      "voice/crash_insurance.mp3"
+    ],
+    "crashCar": [
+      "voice/crash_road.mp3",
+      "voice/crash_insurance.mp3"
+    ],
+    "crashSky": [
+      "voice/crash_sky.mp3",
+      "voice/crash_insurance.mp3"
+    ],
+    "crashRoad": [
+      "voice/crash_road.mp3",
+      "voice/crash_insurance.mp3"
     ]
   },
   "lines": {
@@ -48,11 +64,17 @@
     "voice/closeCall_1.mp3": "¡Demasiado cerca!",
     "voice/airLow_0.mp3": "¡Tanque de aire bajo!",
     "voice/rocket_0.mp3": "¡A toda potencia!",
-    "voice/crash_0.mp3": "Uf. Al seguro le va a encantar esto.",
-    "voice/crash_1.mp3": "Eso era un coche.",
+    "voice/crash_0.mp3": "Uh, esto al seguro le va a encantar",
+    "voice/crash_1.mp3": "Chocaste contra un auto",
     "voice/combo_0.mp3": "¡Combo!",
     "voice/combo_1.mp3": "¡Estás que ardes!",
     "voice/milestone_0.mp3": "¡Un kilómetro de puro caos!",
-    "voice/sky_0.mp3": "¡Roadsters acercándose!"
+    "voice/sky_0.mp3": "¡Roadsters acercándose!",
+    "voice/crash_sign.mp3": "Chocaste contra un cartel",
+    "voice/crash_car.mp3": "¡Uf, chocaste contra un auto volador!",
+    "voice/crash_sky.mp3": "Uh, chocaste contra un Tesla",
+    "voice/crash_tesla.mp3": "¡Uf, chocaste contra un Tesla!",
+    "voice/crash_road.mp3": "Chocaste contra un auto",
+    "voice/crash_insurance.mp3": "Uh, esto al seguro le va a encantar"
   }
 }
